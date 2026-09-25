@@ -45,19 +45,19 @@
 <table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=arduino" width="55" height="55" alt="Arduino"/></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/espressif" width="55" height="55" alt="ESP32 / Espressif"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=esp32" width="55" height="55" alt="ESP32 / Espressif"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=raspberrypi" width="55" height="55" alt="Raspberry Pi"/></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/stmicroelectronics" width="55" height="55" alt="STM32"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=stm32" width="55" height="55" alt="STM32"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=c" width="55" height="55" alt="C"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" alt="C++"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=py" width="55" height="55" alt="Python"/></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/micropython" width="55" height="55" alt="MicroPython"/></td>
+    <td align="center"><img src="https://dl.svgcdn.com/svg/simple-icons/micropython.svg" width="55" height="55" alt="MicroPython"/></td>
   </tr>
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=matlab" width="55" height="55" alt="MATLAB"/></td>
     <td align="center"><img src="https://cdn.simpleicons.org/kicad" width="55" height="55" alt="KiCad"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=autocad" width="55" height="55" alt="AutoCAD"/></td>
-    <td align="center"><img src="https://cdn.simpleicons.org/solidworks" width="55" height="55" alt="SolidWorks"/></td>
+    <td align="center"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/SOLIDWORKS_Logo.svg" width="55" height="55" alt="SolidWorks"/></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/fusion-360/default.svg" width="55" height="55" alt="Fusion 360"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git"/></td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub"/></td>
