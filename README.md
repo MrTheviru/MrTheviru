@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Self-driven <b>Mechatronics Engineer</b> from 🇱🇰 Sri Lanka with <b>10+ years</b> of hands-on building —
+  Self-driven <b>Mechatronics Engineer</b>  with <b>10+ years</b> of hands-on building —
   from Arduino projects at age 14 to industrial PCBs running live in production machines.
   <br>National <b>All-Island 1st Place</b> innovator. I build things that solve real problems.
 </p>
