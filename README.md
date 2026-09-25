@@ -42,9 +42,48 @@
 
 ## 🛠️ Tech & Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,esp32,raspberrypi,stm32,c,cpp,python,micropython,matlab,kicad,autocad,solidworks,fusion,git,github,vscode,linux,docker,ros,opencv,firebase,html,css,js,googlecloud,photoshop,illustrator,premiere,aftereffects,figma,canva&perline=8" alt="Tech stack" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=arduino" width="55" height="55" alt="Arduino"/></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/espressif" width="55" height="55" alt="ESP32 / Espressif"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=raspberrypi" width="55" height="55" alt="Raspberry Pi"/></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/stmicroelectronics" width="55" height="55" alt="STM32"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="55" height="55" alt="C"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" alt="C++"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=py" width="55" height="55" alt="Python"/></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/micropython" width="55" height="55" alt="MicroPython"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=matlab" width="55" height="55" alt="MATLAB"/></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/kicad" width="55" height="55" alt="KiCad"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=autocad" width="55" height="55" alt="AutoCAD"/></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/solidworks" width="55" height="55" alt="SolidWorks"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/fusion-360/default.svg" width="55" height="55" alt="Fusion 360"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="55" height="55" alt="Linux"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" alt="Docker"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ros" width="55" height="55" alt="ROS"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=opencv" width="55" height="55" alt="OpenCV"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" alt="Firebase"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=html" width="55" height="55" alt="HTML5"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=css" width="55" height="55" alt="CSS3"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="55" height="55" alt="JavaScript"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=gcp" width="55" height="55" alt="Google Cloud"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ps" width="55" height="55" alt="Photoshop"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ai" width="55" height="55" alt="Illustrator"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pr" width="55" height="55" alt="Premiere Pro"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=ae" width="55" height="55" alt="After Effects"/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="55" height="55" alt="Figma"/></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="55" height="55" alt="Blender"/></td>
+    <td align="center"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Canva_logo.svg" height="40" alt="Canva"/></td>
+  </tr>
+</table>
 
 > Also: in-house PCB fabrication (layout → etch → assembly), PLC programming, solar system design & install, professional welding, plasma cutting, electronic troubleshooting.
 
