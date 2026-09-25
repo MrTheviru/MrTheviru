@@ -123,12 +123,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrTheviru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrTheviru&theme=tokyonight&hide_border=true" alt="streak" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrTheviru&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrTheviru&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTheviru&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrTheviru&theme=tokyonight" alt="Repositories by Language" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrTheviru&theme=tokyonight" alt="Most Commit Languages" height="180"/>
 </p>
 
 ---
