@@ -1,332 +1,106 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Theviru Lakwan</h1>
 
-# 👋 Hi, I'm Theviru Lakwan
-
-### Mechatronics Engineer · PCB Designer · IoT Developer · Entrepreneur
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Building+Ideas+into+Real+Systems;Mechatronics+%7C+PCB+%7C+IoT+%7C+Robotics;Engineering+Hardware+that+Solves+Real+Problems" alt="Typing SVG" />
-
-<p>
-<a href="https://github.com/MrTheviru"><img src="https://komarev.com/ghpvc/?username=MrTheviru&label=Profile%20Views&color=0e75b6&style=flat" /></a>
-<a href="https://github.com/MrTheviru?tab=followers"><img src="https://img.shields.io/github/followers/MrTheviru?label=Followers&style=flat" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Mechatronics+Engineer;PCB+Designer+%26+Fabricator;IoT+Developer+%26+Maker;Embedded+Systems+%2B+Robotics;Entrepreneur+%26+Problem+Solver" alt="Typing SVG" />
+  </a>
 </p>
 
-<p>
-<a href="https://www.linkedin.com/in/theviru-lakwan-7758a41b8/"><img src="https://img.shields.io/badge/LinkedIn-Theviru%20Lakwan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:thevirulakwan@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<p align="center">
+  Self-driven <b>Mechatronics Engineer</b> from 🇱🇰 Sri Lanka with <b>10+ years</b> of hands-on building —
+  from Arduino projects at age 14 to industrial PCBs running live in production machines.
+  <br>National <b>All-Island 1st Place</b> innovator. I build things that solve real problems.
 </p>
 
-</div>
+<p align="center">
+  <a href="mailto:thevirulakwan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/theviru-lakwan-7758a41b8">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-Maharagama,%20Sri%20Lanka-2ea44f?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MrTheviru&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Mechatronics Engineer, PCB Designer, IoT Developer and Entrepreneur** focused on turning ideas into practical engineering solutions.
-
-My journey started with Arduino projects at a young age and developed into hands-on work across **embedded systems, PCB design and fabrication, IoT systems, industrial automation, robotics, 3D modelling, solar systems and electromechanical troubleshooting**.
-
-I enjoy working across the complete product-development cycle:
-
-**Idea → Design → Electronics → Firmware → Mechanical Build → Testing → Deployment**
-
-🏆 **1st Place — All-Island Smart Pill Dispenser**  
-🤖 **3rd Place — International Combat Robotics Competition**  
-🔌 **Industrial PCB design & fabrication**  
-🌐 **IoT systems deployed in real infrastructure**  
-🛠️ **Hands-on mechanical & electrical engineering**
+- 🔧 **Mechatronics Engineer** — I take products from CAD and PCB layout all the way to a working, deployed device.
+- 🏆 **1st Place — National All-Island Innovation** for the *Smart Pill Dispenser (PULSE)*.
+- 🥉 **3rd Place International** (out of 100 teams) with a 20 kg combat robot.
+- ⚡ Real-world work: industrial PCBs for **live production weighing systems**, PLC-based **filling-station automation**, and **solar power installations**.
+- 🧑‍💼 **Founder & Managing Director** of a photography & digital-marketing business (team of 7).
+- 🌱 Currently building the next-gen **15 kg V2 combat robot** and more IoT products.
+- 📫 Reach me at **thevirulakwan@gmail.com**
 
 ---
 
-## 🧠 What I Build
+## 🛠️ Tech & Skills
 
-| Area | Focus |
-|---|---|
-| ⚡ Embedded Systems | Arduino · ESP8266 · Embedded C · IoT |
-| 🔌 Electronics | PCB Design · PCB Fabrication · Troubleshooting |
-| 🤖 Robotics | Combat Robots · Mechatronics · Control Systems |
-| 🏭 Industrial | PLC · Sensors · Automation |
-| 🧩 Mechanical | CAD · 3D Printing · Welding |
-| ☀️ Renewable Energy | Solar System Design & Installation |
-| 💻 Programming | C/C++ · Python |
-| 🎨 Creative | Photography · Editing |
-
----
-
-# 🔥 Featured Projects
-
-## 💊 PULSE — Smart Pill Dispenser
-
-**IoT · Mechatronics · Embedded Systems · Cloud**
-
-An automated medication dispenser designed to provide scheduled doses using a motorised multi-compartment carousel.
-
-- ⚙️ Motorised multi-compartment dispensing system
-- 🖥️ Keypad + LCD interface
-- 🌐 Cloud platform for reminders and remote monitoring
-- 🧩 Custom mechanical design
-- 🖨️ 3D-printed components
-- 🔌 ESP8266-based control system
-
-🏆 **1st Place — National All-Island Innovation Competition**
-
----
-
-## ⚖️ Industrial Weighing System
-
-**PCB Design · ESP8266 · IoT · Industrial Electronics**
-
-An IoT-enabled digital weighing system built around an ESP8266/NodeMCU.
-
-The complete control PCB was designed and fabricated in-house, from layout artwork through copper etching to final assembly and deployment.
-
-**PCB Layout → Copper Etching → Assembly → Firmware → Testing → Production**
-
----
-
-## 🐟 Automated Fish Tank Feeder
-
-**ESP8266 · IoT · 3D Printing · Product Design**
-
-A Wi-Fi-connected automatic fish feeder designed as a ready-to-sell consumer product.
-
-- 📱 Phone-controlled feeding
-- ⏱️ Scheduled feeding
-- ⚙️ Rotating-drum dispensing mechanism
-- 🖨️ 3D-printed mechanical parts
-- 👀 Transparent food hopper
-- 🐠 Clip-on aquarium mount
-
----
-
-## 🤖 20 kg Combat Robot
-
-**Robotics · Embedded Systems · Mechanical Engineering**
-
-A 20 kg vertical-spinner combat robot designed and engineered for high-impact competition.
-
-- ⚙️ High-inertia vertical spinner
-- 🛡️ Impact-resistant chassis
-- 🔌 Custom motor and power wiring
-- 🧲 Structural design for high-impact forces
-- 🏎️ Drivetrain engineering
-
-🏆 **3rd Place — International Competition**
-
----
-
-## 🤖 15 kg Combat Robot — V2
-
-**Robotics · Mechanical Design · Engineering Development**
-
-The next-generation lightweight combat robot developed from lessons learned from the 20 kg platform.
-
-- ⚡ Reduced weight
-- 🏎️ Improved agility
-- ⚙️ Refined drivetrain
-- 🔩 Improved weapon system
-- 🧠 Engineering improvements based on previous competition experience
-
-🚧 **Currently in development**
-
----
-
-## 🍯 Honey Quality Checker
-
-**Sensors · Food Technology · Embedded Electronics**
-
-A compact testing device designed to assess honey quality using thermal sensing and pH measurement.
-
-- 🌡️ Thermal sensor measurement
-- 🧪 Integrated pH measurement
-- 📟 On-board display
-- 🧰 Portable field-use design
-- ⚡ Fast on-site analysis
-
----
-
-# 🏭 Industrial & Engineering Work
-
-### ⛽ Filling Station Automation
-
-**Industrial Automation · PLC · PCB · Sensors**
-
-PLC programming, Main Control Unit PCB design, specialised sensor sourcing and full on-site installation.
-
-### ☀️ Workshop Solar Installation
-
-**Renewable Energy · Electrical Engineering**
-
-Designed, sized and installed a solar power system for workshop operations, from load calculation through commissioning.
-
-### 📏 Digital Distance Meter
-
-An early electromechanical distance-measurement project developed before comparable commercial alternatives were widely available locally.
-
-### 💡 IoT Aquarium Automation
-
-ESP8266-based relay and timer systems for automated aquarium lighting, combining cloud control with real-time clock scheduling.
-
----
-
-# 🛠️ Technical Skills
-
-### Programming & Embedded
-
-<p>
-<img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge"/>
+<p align="center">
+  <img src="./tech-stack.svg" alt="Tech stack" width="100%" />
 </p>
 
-### Hardware & Electronics
+> Also: in-house PCB fabrication (layout → etch → assembly), PLC programming, solar system design & install, professional welding, plasma cutting, electronic troubleshooting.
 
-<p>
-<img src="https://img.shields.io/badge/PCB%20Design-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IoT-00AEEF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 💊 **Smart Pill Dispenser — PULSE** 🏆 | Automated medication dispenser with a motorised carousel of 3D-printed compartments, keypad + LCD, and a custom cloud platform for reminders. *1st Place — National All-Island Innovation.* | `ESP8266` `IoT` `Cloud` `CAD` |
+| ⚖️ **Industrial Weighing System** | IoT weighing system with a 4-digit 7-segment readout. Full control PCB designed & fabricated in-house — **deployed live in production**. | `ESP8266` `PCB` `IoT` |
+| 🐠 **Automated Fish Tank Feeder** | WiFi fish feeder with a 3D-printed rotating-drum mechanism, scheduled & on-demand feeding from your phone. Packaged as a **ready-to-sell product**. | `ESP8266` `3D Print` `IoT` |
+| 🤖 **Combat Robot — 20 kg Spinner** 🥉 | Durable vertical-spinner battle bot engineered for gyroscopic loads & high-impact combat. Plasma-cut parts + SolidWorks CAD. *3rd Place International.* | `Robotics` `CAD` `Fabrication` |
+| ⚙️ **Combat Robot — 15 kg V2** | Lighter, faster next-gen spinner applying lessons from the 20 kg build. *In development.* | `Robotics` `CAD` |
+| 🍯 **Honey Quality Checker** | Portable food-tech tester using a thermal sensor + pH meter with an on-board display — lab-free, on-the-spot analysis. | `Sensors` `Embedded` |
+| ⛽ **Filling Station Automation** | PLC programming, Main Control Unit PCB designed from scratch, international sensor sourcing, full on-site install. | `PLC` `PCB` `Automation` |
+| ☀️ **Workshop Solar Installation** | Engineered, sized and installed a full solar power grid — load calculation to commissioning. | `Solar` `Power` |
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **1st Place — All-Island** · Smart Pill Dispenser (IoT) · 2024
+- 🥉 **3rd Place — Shilpa Navoda All-Island Competition** · 2021
+- 🥇 **1st Place — LightPath Project** · Leo Club District 306 C2 · 2020/21
+- 🥈 **2nd Place — Go Green Project** · Leo Club District 306 C2 · 2022/23
+- 🌍 **3rd Place International** · 20 kg Combat Robot (100 entrants)
+
+---
+
+## 📜 Certifications
+
+`Cisco – IT Essentials` · `Cisco – IoT Fundamentals` · `Cisco – Python Essentials` · `Cisco – Introduction to IoT` · `TECHNEE – Graphic Designing`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrTheviru&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrTheviru&theme=tokyonight&hide_border=true" alt="streak" height="165"/>
 </p>
 
-### Mechanical & Industrial
-
-<p>
-<img src="https://img.shields.io/badge/CAD-FF5722?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/3D%20Printing-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Welding-607D8B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PLC-455A64?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Industrial%20Automation-37474F?style=for-the-badge"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTheviru&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
 </p>
 
 ---
 
-# 🏆 Achievements
+## 🤝 Let's Build Something
 
-| Year | Achievement |
-|---|---|
-| 🥇 2024 | **1st Place — All-Island Smart Pill Dispenser** |
-| 🥉 2021 | **3rd Place — All-Island Competition** |
-| 🥇 2020/21 | **1st Place — LightPath Project** |
-| 🥈 2022/23 | **2nd Place — Go Green Project** |
-| 🏅 2016+ | Multiple school & regional competition honours |
+I'm open to collaborations in **electronics, IoT & product development**.
 
----
+<p align="center">
+  <a href="mailto:thevirulakwan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/theviru-lakwan-7758a41b8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
-# 📜 Certifications
-
-- 🎓 Cisco — IT Essentials
-- 🌐 Cisco — IoT Fundamentals
-- 🐍 Cisco — Python Essentials
-- 🌐 Cisco — Introduction to IoT
-- 🎨 TECHNEE — Graphic Designing
-
----
-
-# 🎓 Education
-
-### G.C.E. Advanced Level — 2024
-
-**Engineering Technology Stream**
-
-- ICT — **B**
-- Engineering Technology — **B**
-- Science for Technology — **B**
-- Common General Test — **060**
-- General English — **C**
-
-**Z-Score:** 1.5655  
-**Island Rank:** 1136  
-**District Rank:** 136
-
----
-
-# 💼 Experience
-
-### PCB Designer & IoT Engineer
-**Scale Machine Co. & BRYLIX IoT Company**
-
-- Industrial PCB design and fabrication
-- IoT control nodes
-- Electronics development
-- Systems deployed in real infrastructure
-
-### Industrial Automation Engineer
-**Filling Station Automation Project**
-
-- PLC programming
-- Main Control Unit PCB design
-- Sensor sourcing
-- On-site installation
-
-### Founder & Managing Director
-**Photography Business**
-
-- Founded during A/L studies
-- Team and employee management
-- Client delivery
-- Business operations and payroll
-
-### Freelance Technical Designer
-
-- PCB design
-- IoT systems
-- Solar installations
-- Electromechanical troubleshooting
-- Digital marketing
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MrTheviru&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTheviru&layout=compact&theme=transparent&hide_border=true" height="180"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=MrTheviru&theme=transparent&hide_border=true" />
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrTheviru&theme=github-compact&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/theviru-lakwan-7758a41b8/"><img src="https://img.shields.io/badge/LinkedIn-Theviru%20Lakwan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:thevirulakwan@gmail.com"><img src="https://img.shields.io/badge/Gmail-thevirulakwan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/MrTheviru"><img src="https://img.shields.io/badge/GitHub-MrTheviru-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
-
----
-
-<div align="center">
-
-## 💡 "Build. Break. Learn. Improve."
-
-### Let's build something that solves a real problem. 🚀
-
-📍 Maharagama, Sri Lanka  
-📧 thevirulakwan@gmail.com
-
-</div>
+<p align="center"><i>“Building solutions that solve real problems.”</i></p>
