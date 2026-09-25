@@ -43,10 +43,6 @@
 ## 🛠️ Tech & Skills
 
 <p align="center">
-  <img src="./assets/tech-skills-banner.svg" alt="Tech & Skills Banner" width="100%"/>
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,esp32,raspberrypi,stm32,c,cpp,python,micropython,matlab,kicad,autocad,solidworks,fusion,git,github,vscode,linux,docker,ros,opencv,firebase,html,css,js,googlecloud,photoshop,illustrator,premiere,aftereffects,figma,canva&perline=8" alt="Tech stack" />
 </p>
 
