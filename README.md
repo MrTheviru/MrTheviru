@@ -43,7 +43,7 @@
 ## 🛠️ Tech & Skills
 
 <p align="center">
-  <img src="./tech-stack.svg" alt="Tech stack" width="100%" />
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,c,python,esp32,github,git,raspberrypi,matlab,blender,autocad&perline=8" alt="Tech stack" />
 </p>
 
 > Also: in-house PCB fabrication (layout → etch → assembly), PLC programming, solar system design & install, professional welding, plasma cutting, electronic troubleshooting.
