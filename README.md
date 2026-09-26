@@ -94,7 +94,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | 💊 **[Smart Pill Dispenser — PULSE](https://github.com/MrTheviru/PULSE-Smart-Pill-Dispenser)** 🏆 | Automated medication dispenser designed to help elderly users manage medication through scheduled reminders and accurate pill dispensing, helping reduce missed doses. Features a motorised carousel with 3D-printed compartments, keypad + LCD interface, and a custom web platform. *1st Place — National All-Island Innovation Competition (2024).* | `ESP8266` `NEMA 17` `A4988` `Servo` `LCD` `Keypad` `Shucker Pump` `Arduino IDE` `Web Platform` |
-| ⚖️ **Industrial Weighing System** | IoT weighing system with a 4-digit 7-segment readout. Full control PCB designed & fabricated in-house — **deployed live in production**. | `ESP8266` `PCB` `IoT` |
+| ⚖️ **[Industrial Weighing System](https://github.com/MrTheviru/Industrial-IoT-Weighing-System)** | IoT weighing system with a 4-digit 7-segment readout. Full control PCB designed & fabricated in-house — **deployed live in production**. | `ESP8266` `PCB` `IoT` |
 | 🐠 **Automated Fish Tank Feeder** | WiFi fish feeder with a 3D-printed rotating-drum mechanism, scheduled & on-demand feeding from your phone. Packaged as a **ready-to-sell product**. | `ESP8266` `3D Print` `IoT` |
 | 🤖 **Combat Robot — 20 kg Spinner** 🥉 | Durable vertical-spinner battle bot engineered for gyroscopic loads & high-impact combat. Plasma-cut parts + SolidWorks CAD. *3rd Place International.* | `Robotics` `CAD` `Fabrication` |
 | ⚙️ **Combat Robot — 15 kg V2** | Lighter, faster next-gen spinner applying lessons from the 20 kg build. *In development.* | `Robotics` `CAD` |
