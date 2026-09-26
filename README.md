@@ -95,10 +95,10 @@
 |---|---|---|
 | 💊 **[Smart Pill Dispenser — PULSE](https://github.com/MrTheviru/PULSE-Smart-Pill-Dispenser)** 🏆 | Automated medication dispenser designed to help elderly users manage medication through scheduled reminders and accurate pill dispensing, helping reduce missed doses. Features a motorised carousel with 3D-printed compartments, keypad + LCD interface, and a custom web platform. *1st Place — National All-Island Innovation Competition (2024).* | `ESP8266` `NEMA 17` `A4988` `Servo` `LCD` `Keypad` `Shucker Pump` `Arduino IDE` `Web Platform` |
 | ⚖️ **[Industrial Weighing System](https://github.com/MrTheviru/Industrial-IoT-Weighing-System)** | IoT weighing system with a 4-digit 7-segment readout. Full control PCB designed & fabricated in-house — **deployed live in production**. | `ESP8266` `PCB` `IoT` |
-| 🐠 **Automated Fish Tank Feeder** | WiFi fish feeder with a 3D-printed rotating-drum mechanism, scheduled & on-demand feeding from your phone. Packaged as a **ready-to-sell product**. | `ESP8266` `3D Print` `IoT` |
+| 🐠 **[Automated Fish Tank Feeder](https://github.com/MrTheviru/Automated-Fish-Tank-Feeder)** | ESP-01 aquarium feeder with a custom rotating-drum mechanism and responsive web dashboard for live status, two daily schedules, and on-demand feeding. | `ESP8266` `Servo` `HTML` `CSS` `JavaScript` `IoT` |
 | 🤖 **Combat Robot — 20 kg Spinner** 🥉 | Durable vertical-spinner battle bot engineered for gyroscopic loads & high-impact combat. Plasma-cut parts + SolidWorks CAD. *3rd Place International.* | `Robotics` `CAD` `Fabrication` |
 | ⚙️ **Combat Robot — 15 kg V2** | Lighter, faster next-gen spinner applying lessons from the 20 kg build. *In development.* | `Robotics` `CAD` |
-| 🍯 **Honey Quality Checker** | Portable food-tech tester using a thermal sensor + pH meter with an on-board display — lab-free, on-the-spot analysis. | `Sensors` `Embedded` |
+| 🍯 **[Honey Quality Checker](https://github.com/MrTheviru/Honey-Quality-Checker)** | Portable food-tech tester using temperature and pH sensing with an onboard display for immediate sample measurements. | `Arduino` `pH Sensor` `Temperature Sensor` `Embedded Systems` |
 | ⛽ **Filling Station Automation** | PLC programming, Main Control Unit PCB designed from scratch, international sensor sourcing, full on-site install. | `PLC` `PCB` `Automation` |
 | ☀️ **Workshop Solar Installation** | Engineered, sized and installed a full solar power grid — load calculation to commissioning. | `Solar` `Power` |
 
