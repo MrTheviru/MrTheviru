@@ -96,7 +96,7 @@
 | 💊 **[Smart Pill Dispenser — PULSE](https://github.com/MrTheviru/PULSE-Smart-Pill-Dispenser)** 🏆 | Automated medication dispenser designed to help elderly users manage medication through scheduled reminders and accurate pill dispensing, helping reduce missed doses. Features a motorised carousel with 3D-printed compartments, keypad + LCD interface, and a custom web platform. *1st Place — National All-Island Innovation Competition (2024).* | `ESP8266` `NEMA 17` `A4988` `Servo` `LCD` `Keypad` `Shucker Pump` `Arduino IDE` `Web Platform` |
 | ⚖️ **[Industrial Weighing System](https://github.com/MrTheviru/Industrial-IoT-Weighing-System)** | IoT weighing system with a 4-digit 7-segment readout. Full control PCB designed & fabricated in-house — **deployed live in production**. | `ESP8266` `PCB` `IoT` |
 | 🐠 **[Automated Fish Tank Feeder](https://github.com/MrTheviru/Automated-Fish-Tank-Feeder)** | ESP-01 aquarium feeder with a custom rotating-drum mechanism and responsive web dashboard for live status, two daily schedules, and on-demand feeding. | `ESP8266` `Servo` `HTML` `CSS` `JavaScript` `IoT` |
-| 🤖 **Combat Robot — 20 kg Spinner** 🥉 | Durable vertical-spinner battle bot engineered for gyroscopic loads & high-impact combat. Plasma-cut parts + SolidWorks CAD. *3rd Place International.* | `Robotics` `CAD` `Fabrication` |
+| 🤖 **[FURY — 20 kg Combat Robot](https://github.com/MrTheviru/FURY-20kg-Combat-Robot)** 🥉 | Competition robot combining a high-energy rotating weapon, fabricated armored chassis, radio control, drivetrain integration, and arena-tested reliability. *3rd Place — Bot Bash 2026.* | `Combat Robotics` `Fabrication` `Welding` `Motor Control` |
 | ⚙️ **Combat Robot — 15 kg V2** | Lighter, faster next-gen spinner applying lessons from the 20 kg build. *In development.* | `Robotics` `CAD` |
 | 🍯 **[Honey Quality Checker](https://github.com/MrTheviru/Honey-Quality-Checker)** | Portable food-tech tester using temperature and pH sensing with an onboard display for immediate sample measurements. | `Arduino` `pH Sensor` `Temperature Sensor` `Embedded Systems` |
 | ⛽ **Filling Station Automation** | PLC programming, Main Control Unit PCB designed from scratch, international sensor sourcing, full on-site install. | `PLC` `PCB` `Automation` |
@@ -110,7 +110,7 @@
 - 🥉 **3rd Place — Shilpa Navoda All-Island Competition** · 2021
 - 🥇 **1st Place — LightPath Project** · Leo Club District 306 C2 · 2020/21
 - 🥈 **2nd Place — Go Green Project** · Leo Club District 306 C2 · 2022/23
-- 🌍 **3rd Place International** · 20 kg Combat Robot (100 entrants)
+- 🥉 **3rd Place — Bot Bash 2026** · FURY 20 kg Combat Robot · Team Pulse
 
 ---
 
