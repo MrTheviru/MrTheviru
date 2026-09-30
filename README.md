@@ -127,10 +127,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrTheviru&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrTheviru&theme=tokyonight" alt="Repositories by Language" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrTheviru&theme=tokyonight" alt="Most Commit Languages" height="180"/>
-</p>
 
 ---
 
