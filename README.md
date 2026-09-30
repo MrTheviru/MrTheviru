@@ -33,7 +33,7 @@
 - 🔧 **Mechatronics Engineer** — I take products from CAD and PCB layout all the way to a working, deployed device.
 - 🏆 **1st Place — National All-Island Innovation** for the *Smart Pill Dispenser (PULSE)*.
 - 🥉 **3rd Place International** (out of 100 teams) with a 20 kg combat robot.
-- ⚡ Real-world work: industrial PCBs for **live production weighing systems**, PLC-based **filling-station automation**, and **solar power installations**.
+- ⚡ Real-world work: industrial PCBs for **live production weighing systems**, cloud-connected **filling-station automation**, and **solar power installations**.
 - 🧑‍💼 **Founder & Managing Director** of a photography & digital-marketing business (team of 7).
 - 🌱 Currently building the next-gen **15 kg V2 combat robot** and more IoT products.
 - 📫 Reach me at **thevirulakwan@gmail.com**
@@ -99,7 +99,7 @@
 | 🤖 **[FURY — 20 kg Combat Robot](https://github.com/MrTheviru/FURY-20kg-Combat-Robot)** 🥉 | Competition robot combining a high-energy rotating weapon, fabricated armored chassis, radio control, drivetrain integration, and arena-tested reliability. *3rd Place — Bot Bash 2026.* | `Combat Robotics` `Fabrication` `Welding` `Motor Control` |
 | ⚙️ **Combat Robot — 15 kg V2** | Lighter, faster next-gen spinner applying lessons from the 20 kg build. *In development.* | `Robotics` `CAD` |
 | 🍯 **[Honey Quality Checker](https://github.com/MrTheviru/Honey-Quality-Checker)** | Portable food-tech tester using temperature and pH sensing with an onboard display for immediate sample measurements. | `Arduino` `pH Sensor` `Temperature Sensor` `Embedded Systems` |
-| ⛽ **Filling Station Automation** | PLC programming, Main Control Unit PCB designed from scratch, international sensor sourcing, full on-site install. | `PLC` `PCB` `Automation` |
+| ⛽ **[Filling Station Automation](https://github.com/MrTheviru/Filling-Station-Automation-System)** | Cloud-connected monitoring for every fuel tank, measuring fuel and water levels with configured limits and live mobile visibility. Built with ESP32, Arduino, a custom main-control PCB, and industrial-grade sensors. | `ESP32` `Arduino` `PCB` `Industrial IoT` `Cloud Monitoring` |
 | ☀️ **Workshop Solar Installation** | Engineered, sized and installed a full solar power grid — load calculation to commissioning. | `Solar` `Power` |
 
 ---
